@@ -1,3 +1,6 @@
 *.pdf
 *.mp3
-bin/__pychache__
+./bin/__pychache__
+bin/__pycache__/__init__.cpython-39.pyc
+bin/__pycache__/sound.cpython-39.pyc
+bin/__pycache__/text.cpython-39.pyc
